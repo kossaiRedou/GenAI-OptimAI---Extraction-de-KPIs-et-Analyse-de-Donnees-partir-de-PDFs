@@ -1,0 +1,61 @@
+{
+    "Gouvernance": {
+        "Conseils": {
+            "Conseil d'Administration": null,
+            "Conseil de Surveillance": null
+        },
+        "Comités Permanents": {
+            "Comité d'Audit": null,
+            "Comité Nominations et des Rémunérations": null,
+            "Comité RSE": null,
+            "Comité Stratégique": null,
+            "Autre": null
+        },
+        "Nombre d'Administrateurs": null,
+        "Montant total de l'enveloppe": null
+    },
+    "Rémunération Fixe": {
+        "Président": {
+            "Global": null,
+            "Comité d'Audit": null,
+            "Comité des Rémunérations": null,
+            "Comité Stratégique": null,
+            "Comité RSE": null
+        },
+        "Membre": {
+            "Comité d'Audit": null,
+            "Comité des Rémunérations": null,
+            "Comité Stratégique": null,
+            "Comité RSE": null
+        }
+    },
+    "Rémunération Variable": {
+        "Président": {
+            "Global": null,
+            "Comité d'Audit": null,
+            "Comité des Rémunérations": null,
+            "Comité Stratégique": null,
+            "Comité RSE": null
+        },
+        "Membre": {
+            "Comité d'Audit": null,
+            "Comité des Rémunérations": null,
+            "Comité Stratégique": null,
+            "Comité RSE": null
+        }
+    },
+    "Règles Spécifiques": {
+        "Non Résidents": null,
+        "Téléphone": null
+    },
+    "Fréquence Réunions": {
+        "Conseil d'Administration / Conseil de Surveillance": null,
+        "Comité d'Audit": null,
+        "Comité des Rémunérations": null,
+        "Comité Stratégique": null,
+        "Comité RSE": null
+    },
+    "Rémunération par Responsabilité": {
+        "Montant": null
+    }
+}

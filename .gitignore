@@ -1,0 +1,15 @@
+# Exclure l'environnement virtuel
+venv/
+.env/
+
+# Exclure les fichiers Python compilés
+__pycache__/
+*.pyc
+*.pyo
+
+# Exclure les fichiers spécifiques à l'IDE (ex: VS Code, PyCharm)
+.vscode/
+.idea/
+
+
+optiEnv/
