@@ -16,9 +16,9 @@ OptimAI est un projet conçu pour automatiser l'extraction et l'analyse de donn�
 - Jupyter Notebook
 
 ## Structure du projet
-- `gabithExtract.ipynb` : Extraction de texte à partir de fichiers PDF
+- `gabithExtract.ipynb` : Extraction de texte à partir de fichiers PDF, Analyse et extraction des indicateurs de clés
 - `PdfType.ipynb` : Classification des types de documents PDF
-- `KPIs.ipynb` : Analyse et suivi des indicateurs de performance
+- `KPIs.ipynb` : organisation modulaire des KPIs
 
 ## Prérequis
 Avant d'exécuter le projet, installez les dépendances requises :
